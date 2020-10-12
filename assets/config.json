@@ -1,0 +1,11 @@
+{
+    "rootAPI": "/api/v1/",
+    "port": 8500,
+    "db": {
+      "host": "localhost",
+      "database": "nodejs",
+      "user": "kevin",
+      "password": "Ke-0646415480"
+
+    }
+  }
